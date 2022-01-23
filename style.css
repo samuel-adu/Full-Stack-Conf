@@ -1,0 +1,10 @@
+
+.jumbotron {
+    background: url("img/jumbo-bg.jpg") center / cover;
+}
+
+.speaker-pic {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
